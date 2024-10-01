@@ -104,3 +104,6 @@ ENV/
 
 # credentials:
 service_account.json
+
+# other:
+ .DS_Store
